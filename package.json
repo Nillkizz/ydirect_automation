@@ -1,0 +1,24 @@
+{
+  "name": "ydirect_automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.6",
+    "dotenv": "^10.0.0",
+    "enquirer": "^2.3.6",
+    "node-fetch": "^3.1.0",
+    "playwright": "^1.17.1",
+    "recognize": "^1.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
+}

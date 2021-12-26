@@ -1,0 +1,23 @@
+{
+  "time":{
+    "rest": 5,
+    "moderation_timeout": 1800,
+    "moderation_rest": 60,
+    "back_to_company": 3600
+  },
+  "accounts": [
+    {
+      "profile_name": "ydirect1",
+      "campaigns" : [
+        {
+          "id": "68425967",
+          "groups": [{
+            "id": "4764838841",
+            "banner_id": "№ M-11476908241",
+            "keywords": ["Ключ 111", "Ключ 2222", "Ключ 33333", "Ключ 444444"]
+          }]
+        }
+      ]
+    }
+  ]
+}
